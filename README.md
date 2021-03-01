@@ -5,9 +5,9 @@
 ## Description
 EMAR is an engaging social robot that aims to suppprt teenagers mentalh health. EMAR gathers stress and mood data from teenagers throughout their school day and shares that data in aggregate with the school community. This is how we get a pulse on the teen community at school to better understand how students are feeling. This page provides the source code and the hardware materials to build your EMAR robot. Learn more about this project by visiting the [webpage](http://depts.washington.edu/melab/projects/project-emar/), [blog](https://sites.uw.edu/emar/), or [Twitter account](https://twitter.com/ProjectEMAR).
 
-EMAR project is a [NSF](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1734100&HistoricalAwards=false) funded project, hosted by the [Paul G. Allen School of Computer Science & Engineering](https://www.cs.washington.edu/), and the [Human-Centered Design & Engineering Department](https://www.hcde.washington.edu/) of the [University of Washington](https://www.washington.edu/).
+EMAR is a [NSF](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1734100&HistoricalAwards=false) funded project, hosted by the [Paul G. Allen School of Computer Science & Engineering](https://www.cs.washington.edu/), and the [Human-Centered Design & Engineering Department](https://www.hcde.washington.edu/) of the [University of Washington](https://www.washington.edu/).
 
-This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>
+This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
 ## Project PIs
 - [Maya Cakmak](https://homes.cs.washington.edu/~mcakmak/), [@mayacakmak](https://github.com/mayacakmak)

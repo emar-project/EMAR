@@ -9,11 +9,11 @@ EMAR is a [NSF](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1734100&Histori
 
 This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
-## Project PIs
+## PIs
 - [Maya Cakmak](https://homes.cs.washington.edu/~mcakmak/), [@mayacakmak](https://github.com/mayacakmak)
 - [Elin Bjorling](https://www.hcde.washington.edu/bjorling)
 
-## Project Postdoc
+## Postdoc
 - [Patrícia Alves-Oliveira](https://patricialvesoliveira.com/), [@patricialvesoliveira](https://github.com/patricialvesoliveira)
 
 ## Developers
